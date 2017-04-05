@@ -1,0 +1,182 @@
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\ApplicationInsights.config
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\csc.exe
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\vbc.exe
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\VBCSCompiler.exe
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\StudyGuide.dll.config
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\StudyGuide.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\StudyGuide.pdb
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Antlr3.Runtime.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\EntityFramework.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\EntityFramework.SqlServer.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.Web.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.ApplicationInsights.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Newtonsoft.Json.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Owin.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Helpers.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Mvc.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Optimization.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Razor.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.Deployment.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.Razor.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\WebGrease.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.Web.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.ApplicationInsights.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Helpers.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Mvc.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Optimization.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.Razor.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.Deployment.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\System.Web.WebPages.Razor.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Antlr3.Runtime.pdb
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Newtonsoft.Json.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\EntityFramework.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\EntityFramework.SqlServer.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\obj\Debug\StudyGuide.csprojResolveAssemblyReference.cache
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\obj\Debug\StudyGuide.dll
+c:\users\mbusomkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide\obj\Debug\StudyGuide.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\obj\Debug\StudyGuide.csprojResolveAssemblyReference.cache
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\ApplicationInsights.config
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\csc.exe
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\vbc.exe
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\VBCSCompiler.exe
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.dll.config
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Antlr3.Runtime.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\EntityFramework.SqlServer.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.Web.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Newtonsoft.Json.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Owin.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Common.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\SudyGuide.Framework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Helpers.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Http.Common.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Mvc.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Optimization.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Razor.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.Razor.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Unity.Mvc5.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\WebGrease.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Common.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\SudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.Web.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Http.Common.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Helpers.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Mvc.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Optimization.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Razor.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.WebPages.Razor.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Antlr3.Runtime.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Newtonsoft.Json.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\EntityFramework.SqlServer.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\obj\Debug\StudyGuide.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\obj\Debug\StudyGuide.pdb

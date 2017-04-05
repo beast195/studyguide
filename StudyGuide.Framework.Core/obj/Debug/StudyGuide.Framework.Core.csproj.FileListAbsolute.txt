@@ -1,0 +1,14 @@
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\StudyGuide.Framework.Core.dll.config
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\StudyGuide.Framework.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.csprojResolveAssemblyReference.cache

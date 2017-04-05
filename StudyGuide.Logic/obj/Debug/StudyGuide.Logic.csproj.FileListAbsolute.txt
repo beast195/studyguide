@@ -1,0 +1,9 @@
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.dll
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.csprojResolveAssemblyReference.cache
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.dll
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb

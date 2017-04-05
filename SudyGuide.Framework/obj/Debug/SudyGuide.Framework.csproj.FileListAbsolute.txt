@@ -1,0 +1,5 @@
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\SudyGuide.Framework\bin\Debug\SudyGuide.Framework.dll
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\SudyGuide.Framework\bin\Debug\SudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.csprojResolveAssemblyReference.cache
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.dll
+C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.pdb
