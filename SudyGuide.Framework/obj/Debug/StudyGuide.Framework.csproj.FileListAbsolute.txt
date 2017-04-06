@@ -14,3 +14,5 @@ C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\bin\Debug\Microsof
 C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\obj\Debug\StudyGuide.Framework.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\obj\Debug\SudyGuide.Framework.Migrations.InitialMigration.resources
+C:\Users\MbusoMkhize\Documents\studyguide\SudyGuide.Framework\obj\Debug\StudyGuide.Framework.csproj.GenerateResource.Cache
