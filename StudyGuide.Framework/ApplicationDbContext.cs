@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SudyGuide.Framework
+namespace StudyGuide.Framework
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

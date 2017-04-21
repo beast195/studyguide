@@ -5,5 +5,14 @@ C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb

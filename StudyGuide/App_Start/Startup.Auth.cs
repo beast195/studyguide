@@ -5,7 +5,7 @@ using Microsoft.Owin.Security.Cookies;
 using Owin;
 using StudyGuide.Framework.Core.Models;
 using StudyGuide.Models;
-using SudyGuide.Framework;
+using StudyGuide.Framework;
 using System;
 
 namespace StudyGuide

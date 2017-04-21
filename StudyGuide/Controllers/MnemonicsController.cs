@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StudyGuide.Logic.Boundaries;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,20 @@ namespace StudyGuide.Controllers
 {
     public class MnemonicsController : Controller
     {
+
+        private readonly IMnemonicService _mnemonicService;
+
+        public MnemonicsController(IMnemonicService mnemonicService)
+        {
+            _mnemonicService = mnemonicService;
+        }
+
         // GET: Mnemonics
         public ActionResult Index()
         {
+            _mnemonicService.GetMnemonic("a,c");
             return View();
+            
         }
 
         // GET: Mnemonics/Details/5

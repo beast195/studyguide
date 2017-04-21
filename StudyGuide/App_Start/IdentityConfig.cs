@@ -8,7 +8,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using StudyGuide.Framework.Core.Models;
 using StudyGuide.Models;
-using SudyGuide.Framework;
+using StudyGuide.Framework;
 
 namespace StudyGuide
 {

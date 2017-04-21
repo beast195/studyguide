@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using System.Data.Entity.Infrastructure;
 using System.Data.Entity;
 
-namespace SudyGuide.Framework.Repositories
+namespace StudyGuide.Framework.Repositories
 {
     public class BaseRepository<T> : IBaseRepository<T> where T : class
     {

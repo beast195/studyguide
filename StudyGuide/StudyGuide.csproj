@@ -81,6 +81,11 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
       <Private>True</Private>
@@ -226,6 +231,7 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MatrixController.cs" />
     <Compile Include="Controllers\MnemonicsController.cs" />
+    <Compile Include="Controllers\StoryTimeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -237,19 +243,32 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\elasticstyle.css" />
+    <Content Include="Content\homestyle.css" />
+    <Content Include="Content\typeit.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\arrows-black.png" />
+    <Content Include="Images\back.jpg" />
+    <Content Include="Images\book.jpg" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\graphic.jpg" />
+    <Content Include="Images\main.png" />
+    <Content Include="Images\wallpaper.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\elasticjs.js" />
+    <Content Include="Scripts\homejs.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.easing-sooper.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -257,6 +276,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\typeit.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -293,10 +313,11 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Matrix\Index.cshtml" />
+    <Content Include="Views\Mnemonics\Index.cshtml" />
+    <Content Include="Views\StoryTime\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Mnemonics\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -315,9 +336,13 @@
       <Project>{126FCBDE-3E80-4C48-8C76-5BCC9F6FDBC2}</Project>
       <Name>StudyGuide.Framework.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SudyGuide.Framework\StudyGuide.Framework.csproj">
-      <Project>{CF93BD86-A7F0-4C0A-A6DC-D6C57865BD57}</Project>
+    <ProjectReference Include="..\StudyGuide.Framework\StudyGuide.Framework.csproj">
+      <Project>{828bc9b5-7e77-4587-bb77-b9762f9d8d34}</Project>
       <Name>StudyGuide.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudyGuide.Logic\StudyGuide.Logic.csproj">
+      <Project>{87F86851-AAA2-49C5-ABD8-2F3A391080AD}</Project>
+      <Name>StudyGuide.Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

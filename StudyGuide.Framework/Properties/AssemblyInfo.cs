@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SudyGuide.Framework")]
+[assembly: AssemblyTitle("StudyGuide.Framework")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SudyGuide.Framework")]
+[assembly: AssemblyProduct("StudyGuide.Framework")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cf93bd86-a7f0-4c0a-a6dc-d6c57865bd57")]
+[assembly: Guid("828bc9b5-7e77-4587-bb77-b9762f9d8d34")]
 
 // Version information for an assembly consists of the following four values:
 //

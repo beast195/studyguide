@@ -12,8 +12,8 @@ using StudyGuide.Framework.Core.Models;
 using System.Web;
 using System.Web.Caching;
 using System.Web.Mvc;
+using Unity.Mvc5;
 using MvcUnityDependencyResolver = Unity.Mvc5.UnityDependencyResolver;
-
 //using WebApiUnityDependencyResolver = Unity.WebApi.UnityDependencyResolver;
 
 namespace StudyGuide
@@ -44,10 +44,11 @@ namespace StudyGuide
             container.RegisterType<IDataProtector>(new InjectionFactory(o => dataProtectionProvider.Create()));
 
             DependencyResolver.SetResolver(new MvcUnityDependencyResolver(container));
-            //GlobalConfiguration.Configuration.DependencyResolver = new WebApiUnityDependencyResolver(container);
+            //GlobalConfiguration.Configuration.DependencyResolver = new MvcUnityDependencyResolver(container);
+            //DependencyResolver.SetResolver(new UnityDependencyResolver(container));
             return container;
 
-            //DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+            
         }
     }
 }

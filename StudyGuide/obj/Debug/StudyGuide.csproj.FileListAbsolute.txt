@@ -129,7 +129,8 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Newtonsoft.Json.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Owin.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Common.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.Core.dll
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\SudyGuide.Framework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Helpers.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Http.Common.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\System.Web.Mvc.dll
@@ -142,7 +143,8 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Unity.Mvc5.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\WebGrease.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Common.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.Core.pdb
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\SudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\StudyGuide.Logic.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide\bin\Microsoft.AI.Web.xml
