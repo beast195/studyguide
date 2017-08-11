@@ -82,6 +82,15 @@ namespace StudyGuide.Framework.Repositories
             }
         }
 
+        public void UpdateAll(ISet<T> items)
+        {
+            var entry = items as DbCollectionEntry<T,T>;
+            if (entry != null)
+            {
+                entry.EntityEntry.State = EntityState.Modified;
+            }
+        }
+
         public virtual IEnumerable<T> Where(Expression<Func<T, bool>> p)
         {
             return AsSet().Where(p);

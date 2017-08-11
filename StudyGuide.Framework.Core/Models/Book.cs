@@ -16,6 +16,7 @@ namespace StudyGuide.Framework.Core.Models
         public string BookFileName { get; set; }
         public int ChaptersRead { get; set; }
         public int ChapterTotal { get; set; }
+        public virtual ISet<Chapter> Chapters { get; set; }
     }
     public enum BookType
     {

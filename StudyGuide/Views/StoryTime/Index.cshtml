@@ -1,9 +1,16 @@
-﻿
+﻿@model IEnumerable<StudyGuide.ViewModels.StoryTimeViewModel>
 @{
     ViewBag.Title = "Index";
 }
 
 <div class="slider">
+    @foreach (var vid in Model)
+    {
+        <div class="slide">
+            <iframe width="420" height="315"
+                    src="@vid.Link"></iframe><p>@vid.LinkTitle</p>
+        </div>
+    }
     <div class="slide"><iframe width="420" height="315"
         src="https://www.youtube.com/embed/XGSy3_Czz8k"></iframe><p>rutrum tellus a tempus :)</p></div>
     <div class="slide"><iframe width="420" height="315"

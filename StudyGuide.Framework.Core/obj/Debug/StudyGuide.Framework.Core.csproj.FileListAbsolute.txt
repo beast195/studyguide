@@ -9,6 +9,6 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\En
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Framework.Core\obj\Debug\StudyGuide.Framework.Core.csprojResolveAssemblyReference.cache

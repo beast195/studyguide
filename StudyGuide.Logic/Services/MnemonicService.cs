@@ -423,7 +423,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .AdverbsPart;
+                                                                                            ?.AdverbsPart;
                 return mneme;
             }
             else if (PartOfSpeech.Adjective == part)
@@ -432,7 +432,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .AdjectitivesPart;
+                                                                                            ?.AdjectitivesPart;
                 return mneme;
             }
             else if (PartOfSpeech.Noun == part)
@@ -441,7 +441,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .NounsPart;
+                                                                                            ?.NounsPart;
                 return mneme;
             }
             else if (PartOfSpeech.Preposition == part)
@@ -450,7 +450,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .PrepositionPart;
+                                                                                            ?.PrepositionPart;
                 return mneme;
             }
             else if (PartOfSpeech.Verb == part)
@@ -459,7 +459,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .VerbsPart;
+                                                                                            ?.VerbsPart;
                 return mneme;
             }
             else if (PartOfSpeech.Pronoun == part)
@@ -468,7 +468,7 @@ namespace StudyGuide.Logic.Services
                                                                                            .Shuffle()
                                                                                            .Take(1)
                                                                                             .FirstOrDefault()
-                                                                                            .PronounsPart;
+                                                                                            ?.PronounsPart;
                 return mneme;
             }
 

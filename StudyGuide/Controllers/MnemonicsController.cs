@@ -1,15 +1,11 @@
 ﻿using StudyGuide.Logic.Boundaries;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using StudyGuide.ViewModels;
 using System.Web.Mvc;
 
 namespace StudyGuide.Controllers
 {
     public class MnemonicsController : Controller
     {
-
         private readonly IMnemonicService _mnemonicService;
 
         public MnemonicsController(IMnemonicService mnemonicService)
@@ -20,9 +16,8 @@ namespace StudyGuide.Controllers
         // GET: Mnemonics
         public ActionResult Index()
         {
-            _mnemonicService.GetMnemonic("a,c");
+            //_mnemonicService.GetMnemonic("a,c");
             return View();
-            
         }
 
         // GET: Mnemonics/Details/5
@@ -34,23 +29,18 @@ namespace StudyGuide.Controllers
         // GET: Mnemonics/Create
         public ActionResult Create()
         {
-            return View();
+            return View(new MnemonicsViewModel());
         }
 
         // POST: Mnemonics/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create([Bind(Include = "mneme")] string mneme)
         {
-            try
+            var mnemeEntity = new MnemonicsViewModel
             {
-                // TODO: Add insert logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
+                MnemeResults = _mnemonicService.GetMnemonic(mneme)
+            };
+            return View(mnemeEntity);
         }
 
         // GET: Mnemonics/Edit/5

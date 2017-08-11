@@ -21,6 +21,7 @@ namespace StudyGuide.Common.Unity
 
             //container.RegisterType<IUserService, UserService>(new T());
             container.RegisterType<IMnemonicService, MnemonicService>(new T());
+            container.RegisterType<IBookService, BookService>(new T());
             //container.RegisterType<ICompetitionService, CompetitionService>(new T());
             //container.RegisterType<IIdentityMessageService, SmsService>("SmsService", new T());
             //container.RegisterType<IIdentityMessageService, EmailService>("EmailService", new T());
@@ -34,6 +35,8 @@ namespace StudyGuide.Common.Unity
 
             container.RegisterType<IBaseRepository<ApplicationUser>, BaseRepository<ApplicationUser>>(new T());
             container.RegisterType<IBaseRepository<SentenceLibrary>, BaseRepository<SentenceLibrary>>(new T());
+            container.RegisterType<IBaseRepository<Book>, BaseRepository<Book>>(new T());
+            container.RegisterType<IBaseRepository<Chapter>, BaseRepository<Chapter>>(new T());
             //container.RegisterType<IBaseRepository<Chat>, BaseRepository<Chat>>(new T());
 
 

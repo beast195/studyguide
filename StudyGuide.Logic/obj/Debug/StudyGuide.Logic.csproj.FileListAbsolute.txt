@@ -3,16 +3,22 @@ C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.Office.Interop.Word.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.Core.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\stdole.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.Core.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\StudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\bin\Debug\EntityFramework.xml
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Logic\obj\Debug\StudyGuide.Logic.pdb

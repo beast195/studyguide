@@ -1,3 +1,4 @@
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\obj\Debug\StudyGuide.Common.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Common.dll.config
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Common.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Common.pdb
@@ -20,6 +21,8 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\System.Spa
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\EntityFramework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\stdole.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Framework.Core.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Framework.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\StudyGuide.Logic.pdb
@@ -77,6 +80,5 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\ko\System.
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\ru\System.Spatial.resources.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\obj\Debug\StudyGuide.Common.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\obj\Debug\StudyGuide.Common.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Common\obj\Debug\StudyGuide.Common.pdb
