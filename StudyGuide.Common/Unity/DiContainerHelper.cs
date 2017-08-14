@@ -1,7 +1,9 @@
 ﻿using Microsoft.Practices.Unity;
 using StudyGuide.Framework.Core.Boundaries;
 using StudyGuide.Framework.Core.Models;
-using SudyGuide.Framework.Repositories;
+using StudyGuide.Framework.Repositories;
+using StudyGuide.Logic.Boundaries;
+using StudyGuide.Logic.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +20,8 @@ namespace StudyGuide.Common.Unity
 
 
             //container.RegisterType<IUserService, UserService>(new T());
+            container.RegisterType<IMnemonicService, MnemonicService>(new T());
+            container.RegisterType<IBookService, BookService>(new T());
             //container.RegisterType<ICompetitionService, CompetitionService>(new T());
             //container.RegisterType<IIdentityMessageService, SmsService>("SmsService", new T());
             //container.RegisterType<IIdentityMessageService, EmailService>("EmailService", new T());
@@ -30,6 +34,9 @@ namespace StudyGuide.Common.Unity
 
 
             container.RegisterType<IBaseRepository<ApplicationUser>, BaseRepository<ApplicationUser>>(new T());
+            container.RegisterType<IBaseRepository<SentenceLibrary>, BaseRepository<SentenceLibrary>>(new T());
+            container.RegisterType<IBaseRepository<Book>, BaseRepository<Book>>(new T());
+            container.RegisterType<IBaseRepository<Chapter>, BaseRepository<Chapter>>(new T());
             //container.RegisterType<IBaseRepository<Chat>, BaseRepository<Chat>>(new T());
 
 

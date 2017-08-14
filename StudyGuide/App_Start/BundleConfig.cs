@@ -26,6 +26,18 @@ namespace StudyGuide
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/css/typeit").Include(
+                      "~/Content/typeit.css"));
+            bundles.Add(new ScriptBundle("~/Script/js/typeit").Include(
+                      "~/Scripts/typeit.js"));
+            bundles.Add(new StyleBundle("~/Content/css/elasticstyle").Include(
+                      "~/Content/elasticstyle.css"));
+            bundles.Add(new ScriptBundle("~/Script/js/elasticjs").Include(
+                      "~/Scripts/elasticjs.js"));
+            bundles.Add(new ScriptBundle("~/bundles/jquerysooper").Include(
+                       "~/Scripts/jquery.easing-sooper.js"));
+            bundles.Add(new StyleBundle("~/Content/home").Include(
+                     "~/Content/homestyle.css"));
         }
     }
 }

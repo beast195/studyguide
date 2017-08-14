@@ -21,6 +21,8 @@ namespace StudyGuide.Framework.Core.Boundaries
 
         void Update(T item);
 
+        void UpdateAll(ISet<T> items);
+
         Task<long> CountAsync();
 
         Task<long> CountAsync(Expression<Func<T, bool>> p);

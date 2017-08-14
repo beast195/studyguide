@@ -55,7 +55,6 @@ C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.dll
 C:\Users\MbusoMkhize\documents\visual studio 2015\Projects\StudyGuide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.pdb
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\ApplicationInsights.config
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\roslyn\csc.exe
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -92,12 +91,15 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Owin.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Practices.Unity.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Unity.Mvc5.dll
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\SudyGuide.Framework.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Logic.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Framework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\EntityFramework.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Common.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\stdole.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -115,12 +117,14 @@ C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.A
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Practices.Unity.xml
-C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\SudyGuide.Framework.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Logic.pdb
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Framework.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\EntityFramework.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\StudyGuide.Common.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.csprojResolveAssemblyReference.cache
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.dll
 C:\Users\MbusoMkhize\Documents\studyguide\StudyGuide.Tests\obj\Debug\StudyGuide.Tests.pdb

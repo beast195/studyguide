@@ -101,9 +101,13 @@
       <Project>{126FCBDE-3E80-4C48-8C76-5BCC9F6FDBC2}</Project>
       <Name>StudyGuide.Framework.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SudyGuide.Framework\StudyGuide.Framework.csproj">
-      <Project>{CF93BD86-A7F0-4C0A-A6DC-D6C57865BD57}</Project>
+    <ProjectReference Include="..\StudyGuide.Framework\StudyGuide.Framework.csproj">
+      <Project>{828BC9B5-7E77-4587-BB77-B9762F9D8D34}</Project>
       <Name>StudyGuide.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StudyGuide.Logic\StudyGuide.Logic.csproj">
+      <Project>{87F86851-AAA2-49C5-ABD8-2F3A391080AD}</Project>
+      <Name>StudyGuide.Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
